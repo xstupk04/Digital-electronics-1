@@ -10,8 +10,10 @@
 * Item 2
   * Item 2a
   * Item 2b
+  
+![and_gates](../../Images/Screenshot1.png)
 
-First Header | Second Header
+A | Not
 ------------ | -------------
 CTRL+ALT+T   | Open Linux terminal 
 Content in the first column | Content in the second column
