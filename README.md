@@ -13,5 +13,5 @@
 
 First Header | Second Header
 ------------ | -------------
-First cell | Seconde cell 2
+CTRL+ALT+T   | Open Linux terminal 
 Content in the first column | Content in the second column
