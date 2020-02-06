@@ -10,8 +10,6 @@
 * Item 2
   * Item 2a
   * Item 2b
-  
-![and_gates](../../Images/Screenshot1.png)
 
 A | Not
 ------------ | -------------
