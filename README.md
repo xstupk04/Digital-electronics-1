@@ -11,7 +11,11 @@
   * Item 2a
   * Item 2b
 
-First Header | Second Header
+![and_gates](../../Images/Screenshot1.png)
+
+|**A** | **NOT** |
+|:-:   | :-:;   |
 ------------ | -------------
-CTRL+ALT+T   | Open Linux terminal 
-Content in the first column | Content in the second column
+
+![function]https://latex.codecogs.com/gif.latex?f%3Da*%5Coverline%7Bb%7D&plus;%5Coverline%7Bb%7D*%5Coverline%7Bc%7D
+![Imageoffunction] (../../Images/Screenshot2.png)
