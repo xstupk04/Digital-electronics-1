@@ -11,5 +11,5 @@
   * Item 2a
   * Item 2b
 
-![function]https://latex.codecogs.com/gif.latex?f%3Da*%5Coverline%7Bb%7D&plus;%5Coverline%7Bb%7D*%5Coverline%7Bc%7D
-![Imageoffunction] (../../Images/Screenshot2.png)
+[GitHub]https://latex.codecogs.com/gif.latex?f%3Da*%5Coverline%7Bb%7D&plus;%5Coverline%7Bb%7D*%5Coverline%7Bc%7D
+
