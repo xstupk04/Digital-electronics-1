@@ -24,6 +24,11 @@
 | 1 | 0 |  1  |  0  |  0  |
 | 1 | 1 |  0  |  1  |  0  |
 
+First 
+![GitHub](https://latex.codecogs.com/gif.latex?y_%7BA%3EB%7D%5E%7BSoP%7D%3D%28A%5Ccdot%20%5Cbar%7BB%7D%29)
+
+
+
 
 
 
