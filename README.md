@@ -1,8 +1,6 @@
 # Digital-electronics-1
   
-# First Tittle
-**First Labs** 
-# Second Tittle
+# First Labs
 [Google](https://www.google.com)
 
 ## List
