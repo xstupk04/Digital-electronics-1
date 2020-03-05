@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/lab661/Documents/xstupk04/Digital-electronics-1/Labs/05-counter-binary/binary_counter/binary_counter/g_NPERIOD_isim_beh.exe" -prj "/home/lab661/Documents/xstupk04/Digital-electronics-1/Labs/05-counter-binary/binary_counter/binary_counter/g_NPERIOD_beh.prj" "work.g_NPERIOD" 
