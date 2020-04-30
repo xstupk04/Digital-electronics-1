@@ -14,6 +14,10 @@ Jak jsem již zmínil enkodér obsahuje dva obdelníkové signály pomocí kter�
 ![KY040-Prubeh](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/Sn%C3%ADmek%20obrazovky%202020-04-30%20v%C2%A09.39.39.png)
 
 ### 7 segmentový displej 
+![DISP_Full](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/led-7-mi-segmentovy-displej-9.9mm-rudy-cerveny-12m-0.jpg.big.jpg)
+![DISP_Contacts](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/7-segment-display-pinout.gif)
+
+
 
 
 
