@@ -15,7 +15,7 @@ Jak jsem již zmínil enkodér obsahuje dva obdelníkové signály pomocí kter�
 
 ### 7 segmentový displej 
 ![DISP_Full](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/led-7-mi-segmentovy-displej-9.9mm-rudy-cerveny-12m-0.jpg.big.jpg| width=100)
-![DISP_Contacts](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/7-segment-display-pinout.gif width="200" height="400")
+<img width="200" alt="portfolio_view" src="https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/7-segment-display-pinout.gif ">
 
 
 
