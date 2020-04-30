@@ -11,7 +11,7 @@ KY040 má celkem 5 výstupů. CLK a data jsou obdelníkové signály, sloužíc�
 
 Jak jsem již zmínil enkodér obsahuje dva obdelníkové signály pomocí kterých určujeme počet impulzů a směr otáčení. Z fázového posunu jsme schopni určit jakým směrem se enkodérem otáčí viz. průběh na obrázku. (První průběh CLK předbíhá Data o 90°, druhý průběh naopak) 
 
-<img width="200" alt="https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/Sn%C3%ADmek%20obrazovky%202020-04-30%20v%C2%A09.39.39.png">
+<img width="300" alt="https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/Sn%C3%ADmek%20obrazovky%202020-04-30%20v%C2%A09.39.39.png">
 
 ### 7 segmentový displej 
 <img width="200" alt="portfolio_view" src="https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/led-7-mi-segmentovy-displej-9.9mm-rudy-cerveny-12m-0.jpg.big.jpg">
