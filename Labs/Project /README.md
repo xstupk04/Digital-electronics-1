@@ -5,8 +5,10 @@
 
 ![KY040](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/Rotary-Encoder-Module-Brick-Sensor-Development-for-Ky-040.jpg)
 
-KY040 má celkem 5 výstupů. CLK a data slouží k určení polohy enkodéru (vzájemně jsou posunuty o 90°), GND a +5V slouží k napájení a SW slouží k připojení pushbuttonu. 
+KY040 má celkem 5 výstupů. CLK a data jsou obdelníkové signály, sloužící k určení polohy enkodéru (vzájemně jsou posunuty o 90°), GND a +5V slouží k napájení a SW slouží k připojení pushbuttonu. 
 
 ![KY040-Pins](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/Rotary_Encoder_Pinout_and_PCB%20Dimensions.png)
 
 ![KY040-Pins](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/Sn%C3%ADmek%20obrazovky%202020-04-30%20v%C2%A09.39.39.png)
+
+Jak jsem již zmínil enkodér obsahuje dva obdelníkové signály pomocí kterých určujeme počet impulzů a směr otáčení. Z fázového posunu jsme schopni určit jakým směrem se enkodérem otáčí viz. průběh na obrázku. (První průběh CLK předbíhá Data o 90°, druhý průběh naopak) 
