@@ -29,4 +29,4 @@ Způsob implementace displeje je stejný jako v PC cvičení. Při zapisování 
  </p>
 
 ### Závěr
-Projekt jsem nedokončil kompletně. Pokusil jsem se o dvě řešení, kde první bylo spíše zkušební a výsledný program byl nefukční. U druhého zadání jsem došel aspoň k naprogramování enkodéru. 
+Projekt jsem nedokončil kompletně. Vše mi trvalo o trochu déle jelikož jsme neměl kolegu a na projekt jsem byl sám. Pokusil jsem se o dvě řešení, první byl pouze zkušební (nefunkční). Ačkoliv jsem se u druhého zadání došel alespoň k naprogramování enkondéru, i přesto jsem projekt nedokončil kompletně.
