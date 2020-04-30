@@ -28,9 +28,8 @@ Způsob implementace displeje je stejný jako v PC cvičení. Při zapisování 
 <img width="200" alt="portfolio_view" src="https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/7-segment-display-pinout.gif ">
  </p>
 
-
-
-
+### Závěr
+Projekt jsem nedokončil kompletně, z důvodů nefukčnosti mého prvního pokusu o zvládnutí
 
 
 
