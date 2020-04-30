@@ -19,7 +19,8 @@ Způsob implementace displeje je stejný jako v PC cvičení. Při zapisování 
 <img width="200" alt="portfolio_view" src="https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/led-7-mi-segmentovy-displej-9.9mm-rudy-cerveny-12m-0.jpg.big.jpg">
 <img width="200" alt="portfolio_view" src="https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/7-segment-display-pinout.gif ">
 
-Způsob implementace displeje je stejný jako v PC cvičení. Při zapisování čísel na displej používám dekodér který 4 bitové číslo zobrazí na jednotlivých segmentech 
+
+
 
 
 
