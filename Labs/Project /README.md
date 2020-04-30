@@ -4,3 +4,5 @@
 ### Princip rotačního enkodéru 
 
 ![KY040](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/Rotary-Encoder-Module-Brick-Sensor-Development-for-Ky-040.jpg)
+
+![KY040-Pins](https://github.com/xstupk04/Digital-electronics-1/blob/master/Labs/Project%20/Image/Rotary_Encoder_Pinout_and_PCB%20Dimensions.png)
