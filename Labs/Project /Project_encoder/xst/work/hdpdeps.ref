@@ -1,0 +1,22 @@
+V3 11
+FL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/clock_enable.vhd 2020/04/30.15:36:41 P.20131013
+EN work/clock_enable 1588253854 \
+      FL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/clock_enable.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/clock_enable/Behavioral 1588253855 \
+      FL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/clock_enable.vhd \
+      EN work/clock_enable 1588253854
+FL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/driver_7seg.vhd 2020/04/30.15:36:41 P.20131013
+EN work/driver_7seg 1588253858 \
+      FL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/driver_7seg.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/driver_7seg/Behavioral 1588253859 \
+      FL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/driver_7seg.vhd \
+      EN work/driver_7seg 1588253858 CP work/clock_enable CP work/hex_to_7seg
+FL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/hex_to_7seg.vhd 2020/04/30.15:37:31 P.20131013
+EN work/hex_to_7seg 1588253856 \
+      FL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/hex_to_7seg.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/hex_to_7seg/Behavioral 1588253857 \
+      FL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/hex_to_7seg.vhd \
+      EN work/hex_to_7seg 1588253856

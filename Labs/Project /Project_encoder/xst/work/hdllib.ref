@@ -1,0 +1,6 @@
+EN hex_to_7seg NULL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/hex_to_7seg.vhd sub00/vhpl03 1588253856
+EN driver_7seg NULL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/driver_7seg.vhd sub00/vhpl02 1588253858
+AR driver_7seg behavioral C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/driver_7seg.vhd sub00/vhpl05 1588253859
+AR clock_enable behavioral C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/clock_enable.vhd sub00/vhpl01 1588253855
+AR hex_to_7seg behavioral C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/hex_to_7seg.vhd sub00/vhpl04 1588253857
+EN clock_enable NULL C:/Users/tomas/Desktop/VUT/Digital-electronics1/Project_encoder/clock_enable.vhd sub00/vhpl00 1588253854

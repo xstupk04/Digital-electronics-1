@@ -1,0 +1,3 @@
+vhdl work "C:\Users\tomas\Desktop\VUT\Digital-electronics1\Project_encoder\hex_to_7seg.vhd"
+vhdl work "C:\Users\tomas\Desktop\VUT\Digital-electronics1\Project_encoder\clock_enable.vhd"
+vhdl work "C:\Users\tomas\Desktop\VUT\Digital-electronics1\Project_encoder\driver_7seg.vhd"
