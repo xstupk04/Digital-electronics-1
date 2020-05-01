@@ -32,6 +32,9 @@ Způsob implementace displeje je stejný jako v PC cvičení. Při zapisování 
 Projekt jsem nedokončil kompletně. Vše mi trvalo o trochu déle jelikož jsme neměl kolegu a na projekt jsem byl sám. Pokusil jsem se o dvě řešení, první byl pouze zkušební (nefunkční). Ačkoliv jsem se u druhého zadání došel alespoň k naprogramování enkondéru, i přesto jsem projekt nedokončil kompletně.
 
 ### Zdroje 
+
 https://www.youtube.com/watch?v=v4BbSzJ-hz4
+
 https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/
+
 https://moodle.vutbr.cz/pluginfile.php/183804/mod_resource/content/1/vhdl_kubicek.pdf
